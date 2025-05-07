@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Prediction (Regression)
+# Wine Quality Prediction (Regression)
 
 This project predicts wine quality scores based on physicochemical properties using both linear and nonlinear machine learning models.  
 It combines red and white wine datasets from the UCI Machine Learning Repository and performs full data preprocessing, feature selection, model training, and evaluation.
