@@ -82,12 +82,12 @@ It combines red and white wine datasets from the UCI Machine Learning Repository
 
 ##  Future Work
 - **Expand the data foundation**
-- Ingest additional vintages, vineyards, and geographic regions to improve generalization.
-- Web-scrape or try to buy tasting‑note datasets, then add it to the lab measurements so we can have a row of sensory details in our dataset.
+-   Ingest additional vintages, vineyards, and geographic regions to improve generalization.
+-   Web-scrape or try to buy tasting‑note datasets, then add it to the lab measurements so we can have a row of sensory details in our dataset.
 - **Richer feature engineering**
-- Create interaction and polynomial terms (e.g., pH × alcohol, (sulphates)^2) to capture nonlinear quality relationships among the variables.
-- Derive domain‑specific ratios such as sugar‑to‑acid and free‑to‑total‑sulfur‑dioxide.
+-   Create interaction and polynomial terms (e.g., pH × alcohol, (sulphates)^2) to capture nonlinear quality relationships among the variables.
+-   Derive domain‑specific ratios such as sugar‑to‑acid and free‑to‑total‑sulfur‑dioxide.
 - **Broaden the model lineup**
-- Prototype lightweight neural networks to test deep‑learning performance on our data.
+-   Prototype lightweight neural networks to test deep‑learning performance on our data.
 
 ---
